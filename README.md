@@ -7,7 +7,7 @@ Lo script è progettato per essere eseguito su un dispositivo a bassa potenza (c
 <p align="center">
   <img src="https://raw.githubusercontent.com/bogdancaves/GEOP-on-Google-Calendar/main/.github/assets/geop.png" alt="Calendario GEOP originale" width="45%">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/bogdancaves/GEOP-on-Google-Calendar/.github/assets/google.png" alt="Calendario Google sincronizzato" width="45%">
+  <img src="https://raw.githubusercontent.com/bogdancaves/GEOP-on-Google-Calendar/main/.github/assets/google.png" alt="Calendario Google sincronizzato" width="45%">
 </p>
 
 ## Obiettivo
