@@ -1,0 +1,6 @@
+/.venv
+user_login.py
+/__pycache__
+credentials.json
+calendar.json
+token.json
