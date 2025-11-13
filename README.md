@@ -2,7 +2,7 @@
 
 Questo progetto sincronizza il calendario accademico della piattaforma GEOP (usata da ITSAR) con il tuo Google Calendar.
 
-Lo script è progettato per essere eseguito su un dispositivo a bassa potenza (come un Raspberry Pi Zero W) e aggiornarsi costantemente, assicurando che il tuo Google Calendar rifletta sempre gli ultimi dati di GEOP.
+Lo script è progettato per essere eseguito su un dispositivo a bassa potenza (come un Raspberry Pi Zero W) e aggiornarsi costantemente, assicurando che Google Calendar rifletta sempre gli ultimi dati di GEOP.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/bogdancaves/GEOP-on-Google-Calendar/main/.github/assets/geop.png" alt="Calendario GEOP originale" width="45%">
